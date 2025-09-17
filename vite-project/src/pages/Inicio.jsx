@@ -11,7 +11,7 @@ export default function Inicio() {
             </header>
             
             <main>
-                <h1>Emilly Pinheiro</h1>
+                <h1>Fabricio Henry</h1>
 
                 <h2>Info B</h2>
             </main>
